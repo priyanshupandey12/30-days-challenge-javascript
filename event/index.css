@@ -1,0 +1,30 @@
+body{
+  background-color: black;
+  text-decoration: aliceblue;
+  color: azure;
+}
+
+#btn-text{
+  padding: 13px;
+  margin: 40px;
+}
+#btn2-text{
+  padding: 13px;
+
+}
+
+#dhanraasi{
+
+  padding: 5px;
+}
+#keypresskebaddyha{
+  padding-left: 5px;
+}
+#dropdown{
+  margin-top: 15px;
+  padding: 5px;
+}
+
+.tubhi{
+  background-color: red;
+}
